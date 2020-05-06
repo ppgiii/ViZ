@@ -28,3 +28,5 @@ DatetimeTickFormatter is required to display the x-axis datetime in a meaningful
 Clean up the plot for better viewing experience.
 Add more settings to suit user preferences.
 Convert user entry to upper case for display.
+
+![sample](./iexsample8.png)
