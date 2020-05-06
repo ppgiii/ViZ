@@ -29,4 +29,5 @@ Clean up the plot for better viewing experience.
 Add more settings to suit user preferences.
 Convert user entry to upper case for display.
 
+#### Sample output:
 ![sample](./iexsample8.png)
